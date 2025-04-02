@@ -10,3 +10,10 @@ Boost pressure car gauge and water, oil levels indicator. The datas are retrieve
 
 - Display: [Aliexpress ESP32 Display](https://it.aliexpress.com/item/1005006169531322.html?spm=a2g0o.order_list.order_list_main.77.34513696xiTFVr&gatewayAdapt=glo2ita)
 - OBD2: [Aliexpress OBD2](https://it.aliexpress.com/item/32951258002.html?spm=a2g0o.order_list.order_list_main.169.34513696xiTFVr&gatewayAdapt=glo2ita)
+
+
+## Nexr Step
+
+- Upgrade to LVGL 9.2
+- Refactor the code
+- Retrieve the data using CAN bus with MCP2515 and not anymore with BLE and OBD2 adapter
