@@ -12,7 +12,7 @@ Boost pressure car gauge and water, oil levels indicator. The datas are retrieve
 - OBD2: [Aliexpress OBD2](https://it.aliexpress.com/item/32951258002.html?spm=a2g0o.order_list.order_list_main.169.34513696xiTFVr&gatewayAdapt=glo2ita)
 
 
-## Nexr Step
+## Next Step
 
 - Upgrade to LVGL 9.2
 - Refactor the code
